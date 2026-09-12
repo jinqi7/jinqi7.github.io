@@ -3,7 +3,3 @@ author: Jing Qi
 description: Jing Qi's technical blog
 theme: minima
 url: "https://jinqi7.github.io"
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
